@@ -1,6 +1,6 @@
-Capstone Nanodegree Engenheiro de Machine Learning - Udacity
+<b>Capstone Nanodegree Engenheiro de Machine Learning - Udacity<b>
 
-PUBG Finish Placement Prediction
+<b>Kaggle competition: PUBG Finish Placement Prediction</b>
 
 Projeto desenvolvido para o Nanodegree Engenheiro de Machine Learning da Udacity, onde escolhi uma competição do Kaggle
 como tema.
