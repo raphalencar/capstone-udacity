@@ -1,4 +1,4 @@
-<b>Capstone Nanodegree Engenheiro de Machine Learning - Udacity
+<b>Capstone Nanodegree Engenheiro de Machine Learning - Udacity</b>
 
 <b>Kaggle competition: PUBG Finish Placement Prediction</b>
 
